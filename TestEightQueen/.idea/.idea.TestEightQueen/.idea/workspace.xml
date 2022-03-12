@@ -1,6 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f10c995e-00e8-4517-b6c7-460dea5d6854" name="Changes" comment="Init">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestEightQueen/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestEightQueen/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestEightQueen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/NUnit3.TestAdapter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/NUnit3.TestAdapter.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/NuGet.Frameworks.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/TestEightQueen.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/TestEightQueen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/TestEightQueen.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/TestEightQueen.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/nunit.engine.api.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/nunit.engine.core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/nunit.engine.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ref/TestEightQueen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/testcentric.engine.metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/testhost.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/testhost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/ref/TestEightQueen.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestEightQueen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestEightQueen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestEightQueen/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestEightQueen/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestEightQueen/obj/Debug/net6.0/TestEightQueen.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26I20zgzY5NX3i3IDozHWKTqMEL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f10c995e-00e8-4517-b6c7-460dea5d6854" name="Changes" comment="" />
+      <created>1647096561664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647096561664</updated>
+      <workItem from="1647096573224" duration="3086000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1647096601773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647096601773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
 </project>
